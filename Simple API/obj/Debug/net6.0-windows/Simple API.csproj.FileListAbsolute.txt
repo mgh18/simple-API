@@ -1,0 +1,17 @@
+C:\Users\marziyeh\source\repos\Simple API\Simple API\bin\Debug\net6.0-windows\Simple API.exe
+C:\Users\marziyeh\source\repos\Simple API\Simple API\bin\Debug\net6.0-windows\Simple API.deps.json
+C:\Users\marziyeh\source\repos\Simple API\Simple API\bin\Debug\net6.0-windows\Simple API.runtimeconfig.json
+C:\Users\marziyeh\source\repos\Simple API\Simple API\bin\Debug\net6.0-windows\Simple API.dll
+C:\Users\marziyeh\source\repos\Simple API\Simple API\bin\Debug\net6.0-windows\ref\Simple API.dll
+C:\Users\marziyeh\source\repos\Simple API\Simple API\bin\Debug\net6.0-windows\Simple API.pdb
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple API.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple_API.Form1.resources
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple API.csproj.GenerateResource.cache
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple API.AssemblyInfoInputs.cache
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple API.AssemblyInfo.cs
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple API.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple API.dll
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\ref\Simple API.dll
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple API.pdb
+C:\Users\marziyeh\source\repos\Simple API\Simple API\obj\Debug\net6.0-windows\Simple API.genruntimeconfig.cache
